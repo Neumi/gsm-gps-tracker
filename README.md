@@ -7,10 +7,13 @@ A simple GSM GPS and payload data tracker unsing an Arduino with sim800l and Ubl
 2. Run the sql on your database tool of choice. (of course on the same machine as the php code is ;) )
  
 3. Install all libs via the Arduino 'Library Manager':
+  
 <TinyGPS++.h> by unknown
+  
 <TinyGsmClient.h> by Volodymyr Shymanskyy
+  
 <SoftwareSerial.h> buildin by Arduino
-
+  
 
 ## some PCB images
 ![PCB Backside](/Images/backside.jpg)

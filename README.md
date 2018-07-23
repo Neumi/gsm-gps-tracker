@@ -14,6 +14,18 @@ A simple GSM GPS and payload data tracker unsing an Arduino with sim800l and Ubl
   
 <SoftwareSerial.h> buildin by Arduino
   
+## The Hardware
+You will need some hardware ... 
+  
+  1. Arduino Pro Mini
+  
+  2. GSM SIM800L Module 
+  
+  3. Ublox Neo m6 GPS Module
+  
+  4. 3.7V LiPo Battery (USB wont work as the GSM module draws around 2A peak while transmitting)
+  
+  5. Optional: My PCB
 
 ## some PCB images
 ![PCB Backside](/Images/backside.jpg)

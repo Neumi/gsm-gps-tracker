@@ -8,7 +8,7 @@ A simple GSM GPS and payload data tracker unsing an Arduino with sim800l and Ubl
  
 3. Install all libs via the Arduino 'Library Manager':
   
-<TinyGPS++.h> by unknown
+<TinyGPS++.h> by arduiniana.org
   
 <TinyGsmClient.h> by Volodymyr Shymanskyy
   

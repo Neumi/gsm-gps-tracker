@@ -27,12 +27,16 @@ You will need some hardware ...
   
   5. Optional: My PCB
 
+## Warning
+The charge lipo circuit is not functional. Just ignore the corresponding SMD parts on the top part of the PCB.
+
+
+
 ## some PCB images
 ![PCB Backside](/Images/backside.jpg)
 ![PCB Frontside](/Images/front.jpg)
 ![PCB raw A](/Images/pcbA.jpg)
 ![PCB raw B](/Images/pcbB.jpg)
-
 
 
 
